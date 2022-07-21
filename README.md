@@ -1,3 +1,7 @@
+PERSONAL NOTES:
+	Edit FILE to change xxx
+
+
 # ⚠️ Unmaintained ⚠️
 
 # Prologue - Jekyll Theme
@@ -139,6 +143,5 @@ Credits:
 		jquery.scrollzer (@ajlkn)
 		Skel (skel.io)
 		
-PERSONAL NOTES:
-- Edit FILE to change xxx
+
 ```
