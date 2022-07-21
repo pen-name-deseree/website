@@ -39,8 +39,8 @@ email: deseree.santiago@gmail.com
 avatar: assets/images/avatar.jpg
 
 # You'll want to customize url and baseurl for your own site:
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://pen-name-deseree.github.io/website" # the base hostname & protocol for your site
+baseurl: "/website/" # the subpath of your site, e.g. /blog
+url: "https://pen-name-deseree.github.io" # the base hostname & protocol for your site
 
 
 # Social settings
