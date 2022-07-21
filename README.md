@@ -1,5 +1,6 @@
 PERSONAL NOTES:  
-	Edit FILE to change xxx
+	- remove .html pages from root folder to remove links on main nav bar; to add, do opposite.
+	
 
 
 # ⚠️ Unmaintained ⚠️
