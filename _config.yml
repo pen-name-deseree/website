@@ -47,6 +47,7 @@ collections:
     book:
         output: true
         title: Book
+        [book]
 
 
 # Social settings
