@@ -1,5 +1,5 @@
 ---
-title: Welcome to Jekyll!
+title: This Message Finds You
 icon: fa-check
 order: 5
 ---
