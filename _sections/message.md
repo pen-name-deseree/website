@@ -1,5 +1,5 @@
 ---
-title: This Message Finds You
+title: A Short Message
 icon: fa-check
 order: 4
 ---
