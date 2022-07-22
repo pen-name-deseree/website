@@ -5,6 +5,8 @@ PERSONAL NOTES:
 	- change prologue description in sections/intro.html
 	- change color of nav background line 503 in SASS/jekyll-theme-prologue  
 	- editing the home page descriptions are in _sections. You may want to turn off href for the images  
+	- you can change the footer details in _includes/footer.html  
+	
 	
 
 
