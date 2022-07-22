@@ -748,11 +748,8 @@
 			&.shade-two {
 				/* background-color: #f5fafa; --- original background color of sections  */
 				background: #fff url('../images/booksbg.jpg');
-				position: absolute;
-				left: 0;
-				top: 0;
 				width: 100%;
-				z-index: 1;
+				z-index: 0;
 			}
 
 			&.shade-three {
