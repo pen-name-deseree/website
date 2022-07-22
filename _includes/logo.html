@@ -2,7 +2,9 @@
 <div id="logo">
   <a href="{{- '/' | absolute_url -}}" id="home-link">
     <span class="image avatar48"><img src="{{- site.avatar | relative_url -}}" alt="{{- site.author | default: 'unknown author' | prepend: 'Avatar of ' -}}" /></span>
+    <div class="script-font">
     <h1 id="title">{{- site.title -}}</h1>
     <p>{{- site.subtitle -}}</p>
+    </div>
   </a>
 </div>
