@@ -1,6 +1,7 @@
 PERSONAL NOTES:  
-	- remove .html pages from root folder to remove links on main nav bar; to add, do opposite.
-	- active stylesheet is SASS/jekyll-theme-prologue
+	- remove .html pages from root folder to remove links on main nav bar; to add, do opposite.  
+	- active stylesheet is SASS/jekyll-theme-prologue  
+	- editing the home page descriptions are in _sections. You may want to turn off href for the images.
 	
 
 
