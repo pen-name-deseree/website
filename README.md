@@ -7,7 +7,8 @@ PERSONAL NOTES:
 	- editing the home page descriptions are in _sections. You may want to turn off href for the images  
 	- you can change the footer details in _includes/footer.html  
 	- adding a BOOK. Male sure you provide the href link to the page where it needs to point to. Edit file _sections/portfolio.html
-	- adding a BLOG page or pages! enter the blog.html file and remove the x before every line
+	- adding a BLOG page or pages! enter the blog.html file and remove the x before every line  
+	- .*shades section changes background color or image
 	
 	
 
