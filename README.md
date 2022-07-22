@@ -1,5 +1,6 @@
 PERSONAL NOTES:  
 	- remove .html pages from root folder to remove links on main nav bar; to add, do opposite.
+	- active stylesheet is SASS/jekyll-theme-prologue
 	
 
 
