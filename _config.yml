@@ -42,13 +42,6 @@ avatar: assets/images/avatar.jpg
 baseurl: "/website/" # the subpath of your site, e.g. /blog
 url: "https://pen-name-deseree.github.io" # the base hostname & protocol for your site
 
-# Collections-builder
-collections:
-    book:
-        output: true
-        title: Book
-        [book]
-
 
 # Social settings
 # Make sure to include the full url including protocol, e.g. https://github.com/chrisbobbe
@@ -68,4 +61,4 @@ google_analytics:
 
 # The following settings are NECESSARY for the Prologue theme to run:
 remote_theme: chrisbobbe/jekyll-theme-prologue
-collections: [sections]
+collections: [sections][book]
