@@ -759,20 +759,6 @@
 					z-index: -1;
 				}
 			}
-			
-			&.bookpage {
-				padding: 3em 0;
-				position: relative;
-				z-index: 0;
-				background: #fff url('../images/booksbg30.jpg');
-				position: absolute;
-				object-fit: cover;
-				width: 100%;
-				left: 0;
-				top: 0;
-				z-index: -1;
-				
-			}
 
 			&.shade-one {
 				/* background-color: #81918E; --- original background color of sections  */
@@ -796,6 +782,19 @@
 			}
 		}
 	}
+
+/* bookpage new settings used in additional book description pages */
+			
+			.bookpage {
+				padding: 3em 0;
+				position: relative;
+				background: #fff url('../images/booksbg30.jpg');
+				position: absolute;
+				object-fit: cover;
+				width: 100%;
+				left: 0;
+				top: 0;		
+			}
 
 /* Wide */
 
