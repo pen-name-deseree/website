@@ -1,9 +1,9 @@
 PERSONAL NOTES:  
 	- remove .html pages from root folder to remove links on main nav bar; to add, do opposite  
-	(You can also just put a frontmatter attribute hide: true to maintain having the page but removing it from Nav bar.)
+	(You can also just put a frontmatter attribute hide: true to maintain having the page but removing it from Nav bar.)  
 	- active stylesheet is SASS/jekyll-theme-prologue  
 	- you can edit Site TITLE HTML in _includes/logo.html  
-	- change prologue description in sections/intro.html
+	- change prologue description in sections/intro.html  
 	- change color of nav background line 503 in SASS/jekyll-theme-prologue  
 	- editing the home page descriptions are in _sections. You may want to turn off href for the images  
 	- you can change the footer details in _includes/footer.html  
