@@ -764,12 +764,11 @@
 				padding: 3em 0;
 				position: relative;
 				z-index: 0;
-				img.back {
+				img {
 					background: #fff url('../images/booksbg30.jpg');
 					position: absolute;
 					object-fit: cover;
 					width: 100%;
-					height: 100%;
 					left: 0;
 					top: 0;
 					z-index: -1;
