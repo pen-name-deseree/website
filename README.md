@@ -6,9 +6,13 @@ PERSONAL NOTES:
 	- change color of nav background line 503 in SASS/jekyll-theme-prologue  
 	- editing the home page descriptions are in _sections. You may want to turn off href for the images  
 	- you can change the footer details in _includes/footer.html  
-	- adding a BOOK. Male sure you provide the href link to the page where it needs to point to. Edit file _sections/portfolio.html
+	- adding a BOOK. Male sure you provide the href link to the page where it needs to point to. Edit file _sections/portfolio.html  
 	- adding a BLOG page or pages! enter the blog.html file and remove the x before every line  
-	- .*shades section changes background color or image
+	- .*shades in SASS/jekyll-theme-prologue section changes background color or image  
+	- navbar links are automatically created if you add a .md or .html page in root. To hide these links but still maintain page functionality  
+	frontmatter should have hide: true.
+	- WE STILL DO NOT KNOW how to use a new folder under root.  This site has a different way of adding container collections in the config file.  
+	Maybe this is the reason.  
 	
 	
 
