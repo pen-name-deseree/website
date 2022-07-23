@@ -10,7 +10,7 @@ PERSONAL NOTES:
 	- adding a BLOG page or pages! enter the blog.html file and remove the x before every line  
 	- .*shades in SASS/jekyll-theme-prologue section changes background color or image  
 	- navbar links are automatically created if you add a .md or .html page in root. To hide these links but still maintain page functionality  
-	frontmatter should have hide: true.
+	frontmatter should have hide: true.  
 	- WE STILL DO NOT KNOW how to use a new folder under root.  This site has a different way of adding container collections in the config file.  
 	Maybe this is the reason.  
 	
