@@ -500,6 +500,15 @@
 		text-shadow: -1px 0 #100e0f, 0 1px #100e0f, 1px 0 #100e0f, 0 -1px #100e0f;
 }
 
+	.justifiedBook {
+		background: #fff url('../images/booksbg.jpg');
+		font-family: 'Source Sans Pro', sans-serif;
+		font-size: 15pt;
+		text-align: justify;
+		text-justify: inter-word;
+}
+
+
 /* Item */
 
 	.item {
