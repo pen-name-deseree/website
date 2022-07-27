@@ -8,6 +8,9 @@ order: 4
 
 If you want to live your dream, you need two things; your dream, and you, making that dream come true. And in my case, it almost took me forever before I realized what really is my dream and where I really wanted to take my life moving forward.  
 
+<br>
+<br>
+  
 I am the second eldest of five siblings, and we were raised by our mother all on her own since our father died when I was seven years old. I grew up in one of the poorest neighborhoods in Metro Manila. And I never would have thought that I would ever get the chance to leave that place. Not that I am ashamed of my roots, but rather, I am afraid of what I will become when I stayed there; as the neighborhood, I grew up in was very good at shattering one’s dream, with no one realizing it.  
 
 It was during my early 20s when I realize I was killing my own future because everything around me was stopping me from spreading my wings to fly and reach my dream. However, someone made me realize that my life wasn’t a dead end; that I still have a chance to recourse my life to where I wanted it to go. That I could still achieve everything I wanted to have in life. All I need is one, myself; two, cracked and took out the hard-coded bad habits I have in me, and lastly, I have to capitalize on myself, but believe me, when I say “capitalizing on yourself” it’s not all about the money.  
