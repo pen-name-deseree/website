@@ -3,8 +3,8 @@ title: A Short Message
 icon: fa-check
 order: 4
 ---
-
- <div class="justified">
+<p>
+<div class="justified">
 
 If you want to live your dream, you need two things; your dream, and you, making that dream come true. And in my case, it almost took me forever before I realized what really is my dream and where I really wanted to take my life moving forward.  
 
@@ -27,3 +27,4 @@ And frankly speaking, deciding to give my writing dream a chance was one of the 
 So if you wanted to live your dream, don’t just dream, do something. Be obsessed with your dream.  
 
 </div>
+</p>
