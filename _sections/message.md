@@ -26,4 +26,4 @@ And frankly speaking, deciding to give my writing dream a chance was one of the 
 
 So if you wanted to live your dream, don’t just dream, do something. Be obsessed with your dream.  
 
-</div
+</div>
