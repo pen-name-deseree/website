@@ -4,6 +4,8 @@ icon: fa-check
 order: 4
 ---
 
+ <div class="justified">
+
 If you want to live your dream, you need two things; your dream, and you, making that dream come true. And in my case, it almost took me forever before I realized what really is my dream and where I really wanted to take my life moving forward.  
 
 I am the second eldest of five siblings, and we were raised by our mother all on her own since our father died when I was seven years old. I grew up in one of the poorest neighborhoods in Metro Manila. And I never would have thought that I would ever get the chance to leave that place. Not that I am ashamed of my roots, but rather, I am afraid of what I will become when I stayed there; as the neighborhood, I grew up in was very good at shattering one’s dream, with no one realizing it.  
@@ -24,4 +26,4 @@ And frankly speaking, deciding to give my writing dream a chance was one of the 
 
 So if you wanted to live your dream, don’t just dream, do something. Be obsessed with your dream.  
 
-
+</div
